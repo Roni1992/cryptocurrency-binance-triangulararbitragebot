@@ -100,3 +100,4 @@ pairs_bnbcoins = [
     ['ZILBNB', 'BNBBTC', 'ZILBTC']
 ]
 
+
